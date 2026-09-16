@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "time": {
+      "type": "stdio",
+      "command": "python3.12",
+      "args": ["time_mcp/server.py"]
+    }
+  }
+}
